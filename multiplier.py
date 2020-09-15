@@ -9,6 +9,6 @@ def multi():
     y = int(input("Please enter another number: "))
     return x * y
 
-output_num = multi()
+output_number = multi()
 
-print(output_num)
+print(output_number)
