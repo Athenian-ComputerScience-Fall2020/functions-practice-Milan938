@@ -3,7 +3,7 @@
 def adder():
     # Stores two numbers in two variables.
     num1 = 10
-    num2 = 15
+    num2 = 17
 
 # Adds the variable contents together and returns the total to the main program
 
